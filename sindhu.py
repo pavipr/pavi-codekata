@@ -1,7 +1,7 @@
-a=input()
-if(a=0);
- print("zero")
+a=-1
+if(a==0):
+	print("zero")
 elif(a>0):
- print("positive")
+	print("positive")
 else:
- printf("negative")
+	print("negative")
