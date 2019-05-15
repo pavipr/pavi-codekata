@@ -1,5 +1,5 @@
-a=8
-if(8%2==0):
+a=5
+if(a%2==0):
 	print("even")
 else:
 	print("odd")
