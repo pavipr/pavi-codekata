@@ -5,6 +5,7 @@ for i in range(N):
   w=int(input())
 for j in range(1,K):
   S+=K
-  print(S)
+  K-=1
+ print(S)
 
 
