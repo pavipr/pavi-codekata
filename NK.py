@@ -1,5 +1,5 @@
-N=int(input("enter"))
-K=int(input("enter"))
+N=int(input(""))
+K=int(input(""))
 S=1
 for i in range(N):
   w=int(input())
