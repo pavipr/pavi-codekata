@@ -1,4 +1,4 @@
-n=(input("enter"))
+n=(input(""))
 print (len(n))
 
 
