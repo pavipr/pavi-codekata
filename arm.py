@@ -1,0 +1,11 @@
+n=int(input("enter"))
+temp=n
+s=0
+while(temp>0):
+  re=temp%10
+  s+=re**3
+  temp//=10
+if(n==s):
+  print("yes")
+else:
+  print("no")
