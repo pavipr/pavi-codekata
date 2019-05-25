@@ -1,5 +1,5 @@
-n=int(input("enter"))
-q=int(input("enter"))
+n=int(input(""))
+q=int(input(""))
 if(n,q<=100000):
   for num in range(n,q):
      if(num>1):
