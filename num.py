@@ -1,5 +1,5 @@
 try:
   n=float(input(""))
-  print("yes")
+  print("Yes")
 except ValueError:
-  print("no")
+  print("No")
