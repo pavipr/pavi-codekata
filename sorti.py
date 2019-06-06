@@ -1,3 +1,4 @@
 n=input()
 m=sorted(n)
-print(*m)
+str=""
+print(str.join(m))
